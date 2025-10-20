@@ -1,0 +1,33 @@
+{
+  "name": "node-batch-flow",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "@byted-meego/meego-components": "^3.0.15-rc.3",
+    "@douyinfe/semi-icons": "^2.64.0",
+    "@ies/semi-theme-meego": "^1.0.90",
+    "@lark-project/js-sdk": "^2.0.11",
+    "@lark-project/ui-kit-plugin": "^0.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@lark-project/cli": "^2.3.3",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "axios": "^1.7.4",
+    "inquirer": "^8.0.0"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

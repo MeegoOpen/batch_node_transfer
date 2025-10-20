@@ -1,0 +1,11 @@
+{
+  "siteDomain": "xxx",
+  "pluginId": "xxx",
+  "pluginSecret": "8c3efe986b2244874462961a56b48e2e",
+  "resources": [
+    {
+      "id": "button_web_op",
+      "entry": "./src/features/Button/index.tsx"
+    }
+  ]
+}
