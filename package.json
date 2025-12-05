@@ -13,9 +13,8 @@
     ]
   },
   "dependencies": {
-    "@byted-meego/meego-components": "^3.0.15-rc.3",
+    "@douyinfe/semi-ui": "^2.82.1",
     "@douyinfe/semi-icons": "^2.64.0",
-    "@ies/semi-theme-meego": "^1.0.90",
     "@lark-project/js-sdk": "^2.0.11",
     "@lark-project/ui-kit-plugin": "^0.7.0",
     "react": "^18.2.0",
